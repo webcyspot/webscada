@@ -1,2 +1,0 @@
-# newPortfolio
-fully animated portfolio
